@@ -10,5 +10,5 @@
 
 ## Funciones
 
-- [Ejercicio 5 a](./0-hola-mundo/ejercicio_5a.c)
-- [Ejercicio 5 b](./0-hola-mundo/ejercicio_5b.c)
+- [Ejercicio 5 a](./2-funciones/ejercicio_5a.c)
+- [Ejercicio 5 b](./2-funciones/ejercicio_5b.c)
